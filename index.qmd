@@ -47,6 +47,8 @@ Three files containing data on 2019 Airbnb listings are available to you:
 
 **data/airbnb_price.csv**
 
+You can download the dataset [here](https://github.com/lawaloa/Project_6/blob/main/data/airbnb_price.csv){target="_blank}
+
 This is a CSV file containing data on Airbnb listing prices and locations.
 
 - **`listing_id`**: unique identifier of listing
@@ -55,6 +57,8 @@ This is a CSV file containing data on Airbnb listing prices and locations.
 
 **data/airbnb_room_type.xlsx**
 
+You can download the dataset [here](https://github.com/lawaloa/Project_6/blob/main/data/airbnb_room_type.xlsx){target="_blank"}
+
 This is an Excel file containing data on Airbnb listing descriptions and room types.
 
 - **`listing_id`**: unique identifier of listing
@@ -62,6 +66,8 @@ This is an Excel file containing data on Airbnb listing descriptions and room ty
 - **`room_type`**: Airbnb has three types of rooms: shared rooms, private rooms, and entire homes/apartments
 
 **data/airbnb_last_review.tsv**
+
+You can download it [here](https://github.com/lawaloa/Project_6/blob/main/data/airbnb_last_review.tsv){target="_blank"}
 
 This is a TSV file containing data on Airbnb host names and review dates.
 
