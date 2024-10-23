@@ -151,7 +151,7 @@ The Analysis results are summarize as follows:
 - The most recent review date was 9th July 2019. 
 - The number of private rooms listings are `{python} pvt_room`.
 - The average listing price is `{python} mid_price`
-- The one row DataFrame is `{python} review_date`
+- The one row DataFrame is `{python} review_dates`
 
 
 
