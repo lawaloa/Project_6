@@ -30,13 +30,9 @@ jupyter: python3
 
 ![NYC Skyline](nyc.jpg)
 
-# Introduction 
-
-Welcome to New York City, one of the most-visited cities in the world. There are many Airbnb listings in New York City to meet the high demand for temporary lodging for travelers, which can be anywhere between a few nights to many months. In this project, we will take a closer look at the New York Airbnb market by combining data from multiple file types like `.csv`, `.tsv`, and `.xlsx`.
-
 # Project Overview
 
-As a consultant working for a real estate start-up, you have collected Airbnb listing data from various sources to investigate the short-term rental market in New York. 
+Welcome to New York City, one of the most-visited cities in the world. There are many Airbnb listings in New York City to meet the high demand for temporary lodging for travelers, which can be anywhere between a few nights to many months. In this project, we will take a closer look at the New York Airbnb market by combining data from multiple file types like `.csv`, `.tsv`, and `.xlsx`.
 
 # Data Source
 
@@ -77,7 +73,7 @@ This is a TSV file containing data on Airbnb host names and review dates.
 
 # Exploratory Data Analysis
 
-You'll analyze this data to provide insights on private rooms to the real estate company.
+As a consultant working for a real estate start-up, you have collected Airbnb listing data from various sources to investigate the short-term rental market in New York. You'll analyze this data to provide insights on private rooms to the real estate company.
 
 - What are the dates of the earliest and most recent reviews? Store these values as two separate variables with your preferred names.
 - How many of the listings are private rooms? Save this into any variable.
@@ -145,13 +141,13 @@ print(review_dates)
 
 # Result/Findings
 
-The Analysis results are summarize as follows:
+The Analysis results are summarized as follows:
 
 - The earliest review date was 1st January 2019.
 - The most recent review date was 9th July 2019. 
 - The number of private rooms listings are `{python} pvt_room`.
 - The average listing price is `{python} mid_price`
-- The one row DataFrame is `{python} review_dates`
+- This is the one row DataFrame below: `{python} review_dates`
 
 
 
